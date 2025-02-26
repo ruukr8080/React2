@@ -1,12 +1,10 @@
-
 function App() {
   
 
   return (
-    <header>
-      <img src="" alt="" />
-      <h1>Tic-Tac-Toe</h1>
-    </header>
+    <>
+      <p>Comming soon...</p>
+    </>
   )
 }
 
